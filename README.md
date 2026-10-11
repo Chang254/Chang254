@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Daniel, a [Software Engineer](https://github.com/dkcpano) at [Pano AI](https://www.pano.ai/)
+I'm Daniel, a Software Engineer at [Pano AI](https://www.pano.ai/).  [Alt Work Account]((https://github.com/dkcpano))
 
 
 
